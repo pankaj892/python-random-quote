@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Never let a computer know you're in a hurry
+The attention span of a computer is only as long as its power cord
